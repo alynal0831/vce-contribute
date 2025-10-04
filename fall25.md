@@ -14,3 +14,4 @@ Add your name to the list below and link to your GitHub profile. Additionally, y
 
 [Jessica Thomas](https://github.com/jmt713) - Software development student, loves Pokémon, Digimon, video games, and reading.
 
+[Alyna Liegl](https://github.com/alynal0831): Student in software development, hobbies are reading, working out, anime, and learning new tech!
